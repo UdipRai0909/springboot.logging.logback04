@@ -1,0 +1,17 @@
+2019-09-07 12:31:45 {restartedMain} INFO  s.logging.logger.Application - Starting Application on DESKTOP-K1UJOPQ with PID 9476 (started by udipr in E:\Java\Frameworks\Spring Framework\Cool Stuff\springboot.logging03)
+2019-09-07 12:31:45 {restartedMain} INFO  s.logging.logger.Application - No active profile set, falling back to default profiles: default
+2019-09-07 12:31:45 {restartedMain} INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-09-07 12:31:45 {restartedMain} INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-09-07 12:31:47 {restartedMain} INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-09-07 12:31:47 {restartedMain} INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-09-07 12:31:47 {restartedMain} INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-07 12:31:47 {restartedMain} INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-09-07 12:31:47 {restartedMain} INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1868 ms
+2019-09-07 12:31:47 {restartedMain} INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-07 12:31:47 {restartedMain} INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2019-09-07 12:31:47 {restartedMain} INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2019-09-07 12:31:47 {restartedMain} INFO  s.logging.logger.Application - Started Application in 3.191 seconds (JVM running for 5.59)
+2019-09-07 12:31:47 {restartedMain} ERROR s.logging.logger.Application - Message logged in at ERROR level
+2019-09-07 12:31:47 {restartedMain} WARN  s.logging.logger.Application - Message logged in at WARN level
+2019-09-07 12:31:47 {restartedMain} INFO  s.logging.logger.Application - Message logged in at INFO level
+2019-09-07 12:32:06 {Thread-6} INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
